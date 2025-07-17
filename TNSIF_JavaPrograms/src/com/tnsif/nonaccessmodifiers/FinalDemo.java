@@ -1,6 +1,6 @@
 package com.tnsif.nonaccessmodifiers;
 
-final class FinalDemo {
+class FinalDemo {
 	
 	final int Max = 100;
 	
