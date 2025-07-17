@@ -2,7 +2,7 @@ package com.tnsif.nonaccessmodifiers;
 
 class FinalDemo {
 	
-	final int Max = 100;
+	int Max = 100;
 	
 	final void display() {
 		System.out.println("show the value of max: "+Max);
